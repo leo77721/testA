@@ -1,5 +1,5 @@
 /**
- * 设置显示时间
+ * 设置显示时间1
  */
 var setPerfChartDate = function(theDate) {
     $('#vmperfdatetime').datetimebox('setValue',theDate);
